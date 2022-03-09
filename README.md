@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![2D1DE3C4-D816-4313-B623-91CE542F10AE](https://user-images.githubusercontent.com/101245677/157395132-8670696d-c03f-4ad3-9950-50b8dc760ff4.jpeg)
+
+
 <!--
 **Snigdho-Vau/Snigdho-Vau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
